@@ -15,7 +15,7 @@ function AboutCard() {
             <br/>
             I can start immediately.
             <br />
-            I completed my <span className="purple">Bachelor of Science</span> in Computer Science at the University of the West of England.
+            I completed my <span className="purple">Bachelor of Science</span> in Computer Science at Satbayev University.
             <br />
             <br />
             <h1 style={{ fontSize: "1.1em", paddingBottom: "20px" }}>
@@ -27,7 +27,7 @@ function AboutCard() {
             My commitment to writing clean, maintainable code and mentoring teams has consistently driven success in high-paced environments.
           </p>
           <h1 style={{ textAlign: "justify", fontSize: "1.1em", paddingBottom: "20px" }}>
-            <strong className="">➡️ Beyond coding, here’s what fuels my creativity!</strong>
+            <strong className="">➡️ Beyond coding, here's what fuels my creativity!</strong>
           </h1>
           <ul>
             <li className="about-activity">
