@@ -1,9 +1,12 @@
+# Vladislav Sayenko - Portfolio
+
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">keyonelam.tech</a>
+  Personal Portfolio Website<br/>
+  <a href="https://vladislav.tech" target="_blank">vladislav.tech</a>
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
@@ -13,64 +16,81 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## About
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KeyonElam](https://github.com/KeyonElam/my-Portfolio). Thanks!
+Welcome to my portfolio website repository! This website showcases my professional experience, projects, and technical skills as a Senior Full Stack JavaScript & AI/ML Engineer.
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+This portfolio is crafted using modern technologies:
 
-This project was built using these technologies.
+- **Frontend:** React.js with Hooks
+- **Styling:** React-Bootstrap & Custom CSS
+- **Icons:** React Icons
+- **Animation:** Particles.js
+- **Deployment:** Vercel
+- **Development:** VS Code
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## Key Features
 
-## Features
+- 📱 **Responsive Design** - Optimized for all device sizes
+- 🎨 **Modern UI/UX** - Clean and professional interface
+- 🌟 **Interactive Elements** - Engaging user experience
+- 📋 **Dynamic Content** - Easy to update and maintain
+- 🔍 **SEO Optimized** - Better search engine visibility
+- 🚀 **Fast Loading** - Optimized performance
 
-**📖 Multi-Page Layout**
+## Sections
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+- **Home** - Welcome section with brief introduction
+- **About** - Detailed background and technical skills
+- **Experience** - Professional work history and achievements
+- **Projects** - Showcase of notable projects
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+To run this portfolio locally:
 
-## 🛠 Installation and Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Portfolio.git
+   ```
 
-1. Installation: `npm install`
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-2. In the project directory, you can run: `npm start`
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
-## Usage Instructions
+## Customization
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+You can easily customize this portfolio by:
 
-### Show your support
+1. Navigate to `/src/components/`
+2. Modify the content in respective component files
+3. Update styles in `style.css`
+4. Add your own projects in `Projects.js`
+5. Update experience in `Experience.js`
 
-Give a ⭐ if you like this website!
+## Contact
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+For any queries or suggestions, feel free to reach out:
+
+- Telegram: [@snowman1019](https://t.me/snowman1019)
+
+## License
+
+This project is open source and available under the MIT License.
+
+---
+
+<h3 align="center">Thank you for visiting! 🌟</h3>
